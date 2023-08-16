@@ -12,3 +12,17 @@ C:\Users\eliascmurat\Desktop\Cap7\Cap7\obj\Debug\net7.0\refint\Cap7.dll
 C:\Users\eliascmurat\Desktop\Cap7\Cap7\obj\Debug\net7.0\Cap7.pdb
 C:\Users\eliascmurat\Desktop\Cap7\Cap7\obj\Debug\net7.0\Cap7.genruntimeconfig.cache
 C:\Users\eliascmurat\Desktop\Cap7\Cap7\obj\Debug\net7.0\ref\Cap7.dll
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\bin\Debug\net7.0\Cap7.exe
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\bin\Debug\net7.0\Cap7.deps.json
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\bin\Debug\net7.0\Cap7.runtimeconfig.json
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\bin\Debug\net7.0\Cap7.dll
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\bin\Debug\net7.0\Cap7.pdb
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\Cap7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\Cap7.AssemblyInfoInputs.cache
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\Cap7.AssemblyInfo.cs
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\Cap7.csproj.CoreCompileInputs.cache
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\Cap7.dll
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\refint\Cap7.dll
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\Cap7.pdb
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\Cap7.genruntimeconfig.cache
+C:\Users\eliascmurat\Desktop\FIAP\Cap7\Cap7\obj\Debug\net7.0\ref\Cap7.dll

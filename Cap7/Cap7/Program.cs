@@ -11,6 +11,6 @@ class Program
         player.Vida = 9;
         player.adicionarArmas(armas);
         
-        // TODO: Teste (2)
+        player.mostraArmas();
     }
 }
