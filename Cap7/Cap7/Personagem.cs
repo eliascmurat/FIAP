@@ -5,11 +5,6 @@ public class Personagem
     public string Nome { get; set; }
     public int Vida { get; set; }
     public string[] Armas { get; set; }
-
-    public Personagem()
-    {
-        Armas = new string[4];
-    }
     
     public Personagem(string nome, int vida)
     {
@@ -25,13 +20,12 @@ public class Personagem
             if (Armas[i] == null)
             {
                 Armas[i] = arma;
-                Console.WriteLine(arma + " adicionada no slot: " + (i + 1));
+                Console.WriteLine(arma + ", adicionada no slot: " + (i + 1));
                 break;
             }
             
-            Console.WriteLine("Slot " + (i + 1) + " está cheio. Não é possível adicionar mais armas.");
+            //Console.WriteLine("Slot " + (i + 1) + " está cheio. Não é possível adicionar mais armas.");
         }
-        
     }
     
     public void adicionarArmas(string[] armas)
@@ -44,7 +38,7 @@ public class Personagem
 
     public void mostraArmas()
     {
-        Console.WriteLine("Inventário de armas:");
+        Console.WriteLine("\nInventário de armas:");
         for (int i = 0; i < Armas.Length; i++)
         {
             string arma = Armas[i];
