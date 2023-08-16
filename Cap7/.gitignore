@@ -1,5 +1,7 @@
 # Rider-specific files/folders
 .idea/
+.idea.Cap7/
+.idea/.idea.Cap7/.idea
 *.sln.iml
 
 # Compiled output
